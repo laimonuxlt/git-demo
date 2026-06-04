@@ -1,5 +1,2 @@
 song text
 changes
-
-----
-New text
